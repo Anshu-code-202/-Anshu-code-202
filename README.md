@@ -19,13 +19,18 @@
 - 🎓 B.Tech CSE (3rd Year), India  
 - 💻 Strong in **Python, SQL, Data Science & Machine Learning**  
 - 🚀Built scalable machine learning pipeline using PySpark for real-world datasets  
-- 🧠 Exploring **Deep Learning, Knowledge Graphs & Large Language Models (LLMs)**  
+- 🧠 Exploring **Deep Learning, Knowledge Graphs & Large Language Models (LLMs), Exploring AI,Retrieval-Augmented Generation (RAG)**  
 - ⚡ Practicing **Data Structures & Algorithms** for interview preparation  
 - 🎯 Goal: Software Engineer role at **Google, Microsoft, Accenture, Infosys**
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
+
+- Languages: Python, SQL  
+- Data: Pandas, NumPy  
+- ML/AI: Scikit-learn, RAG, NLP  
+- Tools: FAISS, LangChain, Neo4j  
 
 ### Languages
 <p>
@@ -59,6 +64,14 @@
 🔗 https://github.com/Anshu-code-202
 
 ---
+
+### 🔹 AI Knowledge Graph + RAG System
+- Built a Retrieval-Augmented Generation (RAG) pipeline using FAISS + LangChain + Neo4j  
+- Implemented text chunking, embedding generation, and semantic search  
+- Integrated LLM for contextual response generation  
+- Tech: Python, FAISS, LangChain, Neo4j, OpenAI  
+
+🔗 Repo: https://github.com/Anshu-code-202/ai-knowledge-graph-infosys-springboard-batch13-training
 
 ## Other Projects
 
